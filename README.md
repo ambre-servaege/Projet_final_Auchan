@@ -7,7 +7,7 @@ Application de thèse utilisant un modèle SVM et la similarité cosinus pour su
 [Insérez ici votre lien vers l'app, ex: https://votre-app.streamlit.app]
 
 ## URL du dépôt Git
-[Insérez ici votre lien GitHub]
+https://github.com/ambre-servaege/Projet_final_Auchan
 
 ## Prérequis
 - Python 3.11+
