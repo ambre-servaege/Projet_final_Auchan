@@ -4,7 +4,7 @@
 Application de thèse utilisant un modèle SVM et la similarité cosinus pour suggérer des alternatives aux produits Auchan.
 
 ## URL Publique
-[Insérez ici votre lien vers l'app, ex: https://votre-app.streamlit.app]
+https://projetfinalauchan.streamlit.app/
 
 ## URL du dépôt Git
 https://github.com/ambre-servaege/Projet_final_Auchan
